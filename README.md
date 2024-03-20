@@ -1,1 +1,1 @@
-This is question of ACM socities.
+This is question of ACM Day1 socities.
